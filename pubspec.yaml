@@ -1,0 +1,76 @@
+name: dowload
+description: "TikTok Video Downloader - Modern Flutter App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # UI & Animations
+  cupertino_icons: ^1.0.8
+  flutter_staggered_animations: ^1.1.1
+  
+  # HTTP & Networking
+  http: ^0.13.6
+  dio: ^5.3.2
+  
+  # Storage & File management
+  path_provider: ^2.1.1
+  permission_handler: ^11.0.1
+  device_info_plus: ^9.1.0
+  
+  # State Management
+  provider: ^6.0.5
+  
+  # Utils
+  # Nota: usamos open_filex para abrir archivos locales en Android/iOS
+  open_filex: ^4.0.7
+  url_launcher: ^6.2.1
+  share_plus: ^7.2.1
+  # Video background player
+  video_player: ^2.5.0
+  
+  # UI Components
+  flutter_spinkit: ^5.2.0
+  cached_network_image: ^3.3.0
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.10.0
+  image: ^3.3.0
+
+flutter:
+  uses-material-design: true
+
+  # Assets
+  assets:
+    - assets/images/
+    - assets/animations/
+    - assets/icons/
+    - assets/videos/
+
+# Configuration for generating launcher icons. To generate icons after
+# replacing/adding `assets/images/logofull.png` (recommended) run:
+#
+# flutter pub get
+# flutter pub run flutter_launcher_icons:main
+#
+flutter_icons:
+  android: true
+  image_path: "assets/images/logofull.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/logofull.png"
