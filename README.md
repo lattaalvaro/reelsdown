@@ -38,6 +38,10 @@
 - Notificaciones
 - Información de la app
 
+![Logo](./assets/logo.png)
+
+
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **Flutter**: Framework de desarrollo móvil multiplataforma
