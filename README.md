@@ -7,10 +7,10 @@
 **✨ ReelsDown es una app móvil open-source para descargar de forma rápida y gratuita tus videos favoritos de TikTok, Facebook e Instagram 📥🎬. Este proyecto se comparte para que cualquiera pueda aprender, modificar, personalizar y hacer su propia versión sin restricciones 🧑‍💻💡 — siéntete con toda la libertad de usarlo como quieras 🚀, siempre respetando los términos de cada plataforma y las leyes de tu país ⚖️😉.** 😎
 
 <p align="center">
-  <img src="./diseño/1.png" width="205" />
-  <img src="./diseño/2.png" width="205" />
-  <img src="./diseño/3.png" width="205" />
-  <img src="./diseño/7.png" width="205" />
+  <img src="./diseño/1.png" width="200" />
+  <img src="./diseño/2.png" width="200" />
+  <img src="./diseño/3.png" width="200" />
+  <img src="./diseño/7.png" width="200" />
 </p>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
