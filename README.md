@@ -10,6 +10,26 @@
 
 ---
 
+<p align="center">
+  <img src="./diseño/1.png" width="250" />
+  <img src="./diseño/2.png" width="250" />
+  <img src="./diseño/3.png" width="250" />
+</p>
+
+<p align="center">
+  <img src="./diseño/4.png" width="250" />
+  <img src="./diseño/5.png" width="250" />
+  <img src="./diseño/6.png" width="250" />
+</p>
+
+<p align="center">
+  <img src="./diseño/7.png" width="250" />
+  <img src="./diseño/8.png" width="250" />
+  <img src="./diseño/cap.mp4" width="250" />
+</p>
+
+---
+
 ## 🚀 Características
 
 - **Interfaz moderna**: Diseño inspirado en TikTok con colores rosa y negro
