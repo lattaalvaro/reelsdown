@@ -8,13 +8,11 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/tu_usuario/VidGrab?style=social)](https://github.com/tu_usuario/VidGrab/stargazers)
 
----
-
 <p align="center">
-  <img src="./diseño/1.png" width="220" />
-  <img src="./diseño/2.png" width="220" />
-  <img src="./diseño/3.png" width="220" />
-  <img src="./diseño/7.png" width="220" />
+  <img src="./diseño/1.png" width="225" />
+  <img src="./diseño/2.png" width="225" />
+  <img src="./diseño/3.png" width="225" />
+  <img src="./diseño/7.png" width="225" />
 </p>
 
 ---
