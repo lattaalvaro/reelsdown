@@ -7,10 +7,10 @@
 **¡Descarga tus videos favoritos de Facebook, TikTok e Instagram en segundos!** 😎
 
 <p align="center">
-  <img src="./diseño/1.png" width="225" />
-  <img src="./diseño/2.png" width="225" />
-  <img src="./diseño/3.png" width="225" />
-  <img src="./diseño/7.png" width="225" />
+  <img src="./diseño/1.png" width="248" />
+  <img src="./diseño/2.png" width="248" />
+  <img src="./diseño/3.png" width="248" />
+  <img src="./diseño/7.png" width="248" />
 </p>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
