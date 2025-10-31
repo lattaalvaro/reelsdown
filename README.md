@@ -1,5 +1,6 @@
 ![Demo de la app](diseño/background.gif)
 
+---
 
 # 🎬 ReelsDown
 
