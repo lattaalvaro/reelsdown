@@ -46,8 +46,6 @@
 - Notificaciones
 - Información de la app
 
-![Logo](./assets/logo.png)
-
 
 
 ## 🛠️ Tecnologías Utilizadas
@@ -87,13 +85,10 @@ La aplicación utiliza un tema personalizado con:
 
 ## 📋 Próximas Características
 
-- [ ] Gestión de archivos descargados
 - [ ] Opciones de calidad de video
 - [ ] Descarga de audio únicamente
-- [ ] Compartir videos descargados
 - [ ] Modo oscuro/claro
 - [ ] Descarga en lote
-- [ ] Integración con APIs reales de TikTok
 
 ## 🚦 Cómo Ejecutar
 
