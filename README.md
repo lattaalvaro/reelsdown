@@ -9,8 +9,8 @@
 <p align="center">
   <img src="./diseño/1.png" width="200" />
   <img src="./diseño/2.png" width="200" />
-  <img src="./diseño/3.png" width="200" />
-  <img src="./diseño/7.png" width="200" />
+  <img src="./diseño/4.png" width="200" />
+  <img src="./diseño/5.png" width="200" />
 </p>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
